@@ -6,3 +6,8 @@ Chidepudi, S. K. R., Massei, N., Jardani, A., Dieppois, B., Henriot, A., and Fou
 
 
 For the MODWT library, please install the library following instructions at: https://github.com/gwmodeling/challenge/tree/main/submissions/team_M2C_BRGM/scripts/mwtsa_cima
+
+Download GWL data by running the ADES_data_download/ades_data_download.py script and ERA5 data using ERA5_download.py
+
+For DL models, Change the location of input files and run the individual scripts from subfolders (Standalone and Wavelet) for all the approaches.
+
