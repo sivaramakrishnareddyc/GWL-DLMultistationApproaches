@@ -9,7 +9,7 @@ For the MODWT library, please install the library following instructions at: htt
 
 Download GWL data by running the ADES_data_download/ades_data_download.py script and ERA5 data using ERA5_download.py
 
-For DL models, Change the location of input files and run the individual scripts from subfolders (Standalone and Wavelet) for all the approaches. 
+For DL models, Change the location of input files and run the individual scripts from subfolders (Standalone and Wavelet) for all the approaches. DL models files are not uploaded due to file limits but the scripts save all the model files and plots. CDF plots can be made using metrics.py file after running DL Model scripts
 
 
 
